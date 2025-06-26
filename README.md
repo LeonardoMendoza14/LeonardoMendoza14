@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello! I'm Leonardo Daniel Mendoza Pacheco
 
-<!--
-**LeonardoMendoza14/LeonardoMendoza14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Android Developer | Kotlin Enthusiast | Clean Architecture Advocate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate Android developer focused on building clean, scalable, and user-friendly apps. I have experience with:
+
+- ✅ Kotlin
+- ✅ MVVM, Clean Architecture, SOLID Principles
+- ✅ Jetpack Compose & XML layouts
+- ✅ Retrofit, Room, Hilt, Firebase
+
+Currently looking for **remote opportunities** where I can grow as a mobile developer and contribute to impactful projects.
+
+---
+
+## 📱 Projects
+
+### [📌 Social Gamer](https://github.com/TU_REPO)
+A social network for gamers built with Jetpack Compose, Firebase and Clean Architecture.
+
+### [📌 Rick & Morty App](https://github.com/TU_REPO)
+Consumes the Rick and Morty API using Paging3, Jetpack Compose and MVVM.
+
+*(More projects in my repositories ⬇️)*
+
+---
+
+## 📫 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
+- 📧 leonardo@example.com
+- 🌐 Portfolio: (si tienes uno)
+
+---
