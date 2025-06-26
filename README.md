@@ -18,10 +18,10 @@ Currently looking for **remote opportunities** where I can grow as a mobile deve
 
 ## 📱 Projects
 
-### [📌 Social Gamer](https://github.com/TU_REPO)
+### [📌 Social Gamer](https://github.com/LeonardoMendoza14)
 A social network for gamers built with Jetpack Compose, Firebase and Clean Architecture.
 
-### [📌 Rick & Morty App](https://github.com/TU_REPO)
+### [📌 Rick & Morty App](https://github.com/LeonardoMendoza14)
 Consumes the Rick and Morty API using Paging3, Jetpack Compose and MVVM.
 
 *(More projects in my repositories ⬇️)*
@@ -29,8 +29,7 @@ Consumes the Rick and Morty API using Paging3, Jetpack Compose and MVVM.
 ---
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
-- 📧 leonardo@example.com
-- 🌐 Portfolio: (si tienes uno)
+- 💼 [LinkedIn](www.linkedin.com/in/leonardomendoza14)
+- 📧 Correo: leodanielmp@gmail.com
 
 ---
