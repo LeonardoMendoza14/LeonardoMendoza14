@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Leonardo Daniel Mendoza Pacheco
+# 👋 Hello! I'm Leonardo Mendoza
 
 🎯 Android Developer | Kotlin Enthusiast | Clean Architecture Advocate
 
