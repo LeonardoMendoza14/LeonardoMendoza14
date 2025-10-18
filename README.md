@@ -34,13 +34,13 @@
 <div align="center" style="line-height: 1.6;">
 
   <h3>📌 <a href="https://github.com/LeonardoMendoza14/SocialGamer" target="_blank">Social Gamer</a></h3>
-  <p>
-    A social network for gamers built with <b>Jetpack Compose</b>, <b>Firebase</b> and <b>Clean Architecture</b>.
-  </p>
+  <p align="center" style="max-width: 900px; margin: auto; line-height: 1.6;">
+  <b>Kotlin</b> · KMP · Jetpack Compose · MVVM · Clean Architecture · Room · Hilt · StateFlow · Permissions · Layouts<br>
+</p>
 
   <h3>📌 <a href="https://github.com/LeonardoMendoza14/RickAndMortyApp" target="_blank">Rick & Morty App</a></h3>
-  <p>
-    Consumes the <b>Rick and Morty API</b> using <b>Paging3</b>, <b>Jetpack Compose</b> and <b>MVVM</b>.
+  <p align="center" style="max-width: 900px; margin: auto; line-height: 1.6;">
+  <b>Kotlin</b> Jetpack Compose · MVVM · Clean Architecture · Retrofit2 · Room · Hilt StateFlow · Paging3 · Offline-First<br>
   </p>
 
   <p><i>More projects available in my repositories ⬇️</i></p>
