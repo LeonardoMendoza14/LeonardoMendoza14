@@ -52,11 +52,11 @@
 <!-- CONTACT -->
 <h2 align="center">📫 Contact</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardomendoza14/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardomendoza14/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="leodanielmp@gmail.com" target="_blank">
+  <a href="mailto:leodanielmp@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-Contact-orange?logo=gmail&style=for-the-badge" alt="Email">
   </a>
 </p>
